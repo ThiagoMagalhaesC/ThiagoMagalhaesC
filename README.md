@@ -1,8 +1,8 @@
 ###
 
-## Olá, me chamo Thiago e sou iniciante em Segurança da Informação!<br>
+## Olá, me chamo Thiago!<br>
 
- 📚 Estou começando meus estudos em Algorítmo e Lógica de Programação.<br>
+ 📚 Estou começando meus estudos em Segurança da Informação.<br>
 <hr>
 
 <div align="center">
